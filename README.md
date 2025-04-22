@@ -20,7 +20,9 @@ Custom client builds at: discord.gg/says
 yaml Copy Edit
 
 🛠 Setup
-git clone https://github.com/muzfr/nuker.git
+
+
+`git clone https://github.com/muzfr/nuker.git
 cd COM-Client-v1
 pip install -r requirements.txt
-python com_nuker.py
+python com_nuker.py`
